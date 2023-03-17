@@ -1,0 +1,16 @@
+
+body {
+height:100%;
+background-color: black;
+}
+
+.stopwatch {
+width: 800px;
+margin: 30px auto;
+color:white;
+text-align:center;
+}
+.h1{
+    font-weight: 100;
+font-size: 20px;
+}
